@@ -28,3 +28,7 @@ motionSensors.magnetometer.listen((MagnetometerEvent event) {
 ## Screenshot
 
 <img src="https://github.com/zesage/motion_sensors/raw/master/screenshot.png" width="30%" />
+
+
+##changes 
+updated Plugin Registry API
