@@ -33,6 +33,7 @@ android {
     }
 
     kotlinOptions {
+        namespace 'finaldev.motion_sensors'
         jvmTarget = '1.8'
     }
 
